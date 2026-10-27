@@ -1,0 +1,20 @@
+{
+  "id": "waggles",
+  "title": {
+    "en": "waggles",
+    "zh": "摆摆"
+  },
+  "intro": {
+    "en": "Four pocket worlds you can walk with a finger: a waggle pond, a lantern orchard, a cloud terrace and a glass tide. Swipe to change worlds. Drag or tap to stir them.",
+    "zh": "用手指走进四个口袋世界：摆摆池塘、灯笼果园、云上台地和玻璃潮。左右滑动换世界，拖动或点按去搅动它们。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/waggles.css",
+    "vendor/waggles.js",
+    "vendor/LICENSE.txt"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/waggles"
+}
